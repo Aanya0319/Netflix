@@ -1,0 +1,145 @@
+[
+  {
+    "name": "Baahubali",
+    "id": "Baahubali",
+    "img_url": "https://m.media-amazon.com/images/S/pv-target-images/274431b8945f779acab499a1625c2a3c9ebe1054d112aed3e55cd89c7d2ce41c.jpg",
+   
+    "description": "Im Sol travels back in time to prevent the tragic fate of her favorite star, Ryu Sun Jae.",
+    "cast": ["Kim Hye Yoon", "Byeon Woo Seok", "Song Geon Hee"],
+    "genre": ["Romantic Comedy", "Fantasy"],
+    "watch_url": "https://www.viki.com/tv/40466c-lovely-runner"
+  },
+  {
+    "name": "Magadheera",
+    "id": "Magadheera",
+    "img_url": "https://www.india.com/wp-content/uploads/2017/06/Magadheera.jpg",
+
+    "description": "A group of young friends witness supernatural forces and secret government exploits.",
+    "cast": ["Winona Ryder", "David Harbour", "Millie Bobby Brown"],
+    "genre": ["Drama", "Fantasy", "Horror"],
+    "watch_url": "https://www.netflix.com/title/80057281"
+  },
+  {
+    "name": "Kannappa",
+    "id": "Kannappa",
+     "img_url": "https://im.indiatimes.in/content/2025/Jun/Kannappa_685e218dc1bbb.jpg?w=1200&h=900&cc=1&webp=1&q=75",
+    
+    "description": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world.",
+    "cast": ["Henry Cavill", "Anya Chalotra", "Freya Allan", "Geralt of Rivia"],
+    "genre": ["Action", "Adventure", "Drama"],
+    "watch_url": "https://www.netflix.com/title/80189685"
+  },
+  {
+    "name": "Kalki",
+    "id": "Kalki",
+    "img_url": "https://www.m9.news/wp-content/uploads/2024/06/kalki-2898-ad-second-trailer.jpg",
+    
+    "description": "A criminal mastermind who goes by 'The Professor' plans the biggest heist in recorded history.",
+    "cast": ["Úrsula Corberó", "Álvaro Morte", "Itziar Ituño"],
+    "genre": ["Action", "Crime", "Drama"],
+    "watch_url": "https://www.netflix.com/title/80192098"
+  }
+    ,
+  {
+    "name": "Salaar ",
+    "id": "Salaar ",
+    "img_url": "https://mir-s3-cdn-cf.behance.net/project_modules/hd/c14600187051315.6580ad9ecd230.jpg",
+    
+    "description": "A criminal mastermind who goes by 'The Professor' plans the biggest heist in recorded history.",
+    "cast": ["Úrsula Corberó", "Álvaro Morte", "Itziar Ituño"],
+    "genre": ["Action", "Crime", "Drama"],
+    "watch_url": "https://www.netflix.com/title/80192098"
+  }
+
+    ,
+  {
+    "name": "Adipurush",
+    "id": "Adipurush",
+    "img_url": "https://image.tmdb.org/t/p/original/1H2xEZOixs0z0JKwyjANZiKNNVJ.jpg",
+    
+    "description": "A criminal mastermind who goes by 'The Professor' plans the biggest heist in recorded history.",
+    "cast": ["Úrsula Corberó", "Álvaro Morte", "Itziar Ituño"],
+    "genre": ["Action", "Crime", "Drama"],
+    "watch_url": "https://www.netflix.com/title/80192098"
+    }
+    
+    ,
+  {
+    "name": "Chhaava",
+    "id": "chhaava",
+    "img_url": "https://tse3.mm.bing.net/th/id/OIP.SeJZg3CCh_el7-MlC55YsgHaEk?rs=1&pid=ImgDetMain&o=7&rm=3",
+    
+    "description": "A criminal mastermind who goes by 'The Professor' plans the biggest heist in recorded history.",
+    "cast": ["Úrsula Corberó", "Álvaro Morte", "Itziar Ituño"],
+    "genre": ["Action", "Crime", "Drama"],
+    "watch_url": "https://www.netflix.com/title/80192098"
+    }
+    
+    ,
+  {
+    "name": "Saaho",
+    "id": "Saaho",
+    "img_url":"https://i.ytimg.com/vi/UOATRv_Jtto/maxresdefault.jpg",
+    
+    "description": "A criminal mastermind who goes by 'The Professor' plans the biggest heist in recorded history.",
+    "cast": ["Úrsula Corberó", "Álvaro Morte", "Itziar Ituño"],
+    "genre": ["Action", "Crime", "Drama"],
+    "watch_url": "https://www.netflix.com/title/80192098"
+    }
+    
+    ,
+  {
+    "name": "Mirjapur",
+    "id": "mirjapur",
+    "img_url": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/05ad1d12091d3d56332ed6dcbf5d2f3c3a7c084fd47d610f55d2725adbead01b._RI_V_TTW_.jpg",
+    
+    "description": "A criminal mastermind who goes by 'The Professor' plans the biggest heist in recorded history.",
+    "cast": ["Úrsula Corberó", "Álvaro Morte", "Itziar Ituño"],
+    "genre": ["Action", "Crime", "Drama"],
+    "watch_url": "https://www.netflix.com/title/80192098"
+    }
+    
+    ,
+  {
+    "name": "Billa",
+    "id": "Billa",
+    "img_url":"https://image.tmdb.org/t/p/original/1lHJpFJrjdp7hnv9wSBhOHhCJms.jpg",
+    
+    "description": "A criminal mastermind who goes by 'The Professor' plans the biggest heist in recorded history.",
+    "cast": ["Úrsula Corberó", "Álvaro Morte", "Itziar Ituño"],
+    "genre": ["Action", "Crime", "Drama"],
+    "watch_url": "https://www.netflix.com/title/80192098"
+    }
+    
+    ,
+  {
+    "name": "KGF",
+    "id": "k.g.f",
+    "img_url": "https://ik.imagekit.io/j83rchiauw/seo_popular_master/202302171739_S64r7UI9dTjnwO8C.jpg",
+    
+    "description": "A criminal mastermind who goes by 'The Professor' plans the biggest heist in recorded history.",
+    "cast": ["Úrsula Corberó", "Álvaro Morte", "Itziar Ituño"],
+    "genre": ["Action", "Crime", "Drama"],
+    "watch_url": "https://www.netflix.com/title/80192098"
+    }
+    
+    ,
+  {
+    "name": "Rebel ",
+    "id": "Rebel ",
+    "img_url": "https://tse2.mm.bing.net/th/id/OIP.adB8XRzXyDhnSy1Lh98P3QHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+    
+    "description": "A criminal mastermind who goes by 'The Professor' plans the biggest heist in recorded history.",
+    "cast": ["Úrsula Corberó", "Álvaro Morte", "Itziar Ituño"],
+    "genre": ["Action", "Crime", "Drama"],
+    "watch_url": "https://www.netflix.com/title/80192098"
+    }
+    
+    
+  
+    
+    
+  
+     
+  
+]
