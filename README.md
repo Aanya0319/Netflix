@@ -52,3 +52,12 @@ It showcases movies, web series, and blog content with a modern UI similar to Ne
 ---
 
 ## 📂 Project Structure
+netflix-clone/
+│── public/
+│── src/
+│ ├── components/
+│ ├── pages/
+│ ├── App.js
+│ ├── index.js
+│── screenshots/
+│── package.json
